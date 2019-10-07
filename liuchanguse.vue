@@ -1,6 +1,7 @@
 <template>
 <div id='packed'>
     <h4>如果不是你我不会相信</h4>
+    <span>一定是你啊 招招找</span>
     <button @click='msgClick'>点我啊</button>
   <h3>招逸枫</h3>
 
